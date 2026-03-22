@@ -337,7 +337,7 @@ export default function App() {
           fontSize: "0.7rem", color: "#ccc", letterSpacing: "0.06em",
           pointerEvents: "none",
         }}>
-          FPT University · HN
+          FPT University · HN · <a href="https://www.linkedin.com/in/namvunhatle/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "underline", pointerEvents: "auto" }}>Nhat Nam</a>
         </div>
       </div>
     </>
